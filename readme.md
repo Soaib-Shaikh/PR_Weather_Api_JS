@@ -1,5 +1,15 @@
 Link Here:- 
 
+Output:-
+
+1. City Weather
+
+![alt text](./output/1.png)
+
+2. Invalid City Name
+
+![alt text](./output/2.png)
+
 # Weather API
 
 A simple web application that allows users to search for current weather information by city name. The app fetches real-time weather data from the OpenWeatherMap API and displays temperature, humidity, wind speed, and weather conditions with relevant icons.
